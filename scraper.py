@@ -1,5 +1,4 @@
 # GSMArena-Phone-Spec-Scraper
-Scrapes individual GSMArena phone specification pages for individual specs
 
 #Web scraper for gsmarena: returns specs based on url input
 
